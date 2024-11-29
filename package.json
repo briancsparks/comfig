@@ -1,6 +1,6 @@
 {
   "name": "@inim/comfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily get configuration / inputs to the app.",
   "main": "index.js",
   "scripts": {
