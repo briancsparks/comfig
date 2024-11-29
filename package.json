@@ -1,0 +1,11 @@
+{
+  "name": "comfig",
+  "version": "1.0.0",
+  "description": "Easily get configuration / inputs to the app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian C Sparks",
+  "license": "MIT"
+}
